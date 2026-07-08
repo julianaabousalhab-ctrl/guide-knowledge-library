@@ -52,7 +52,7 @@ Don't assume students will make the connection themselves.
 
 ---
 
-# Growth Mindset develops through productive struggle — not positive affirmations
+# Growth Mindset develops through productive struggle — not positive affirmations alone
 
 ## Pattern
 Across Limitless Launches, students demonstrated the strongest understanding when they experienced genuine difficulty, revised their strategies, and eventually succeeded. Affirmation reinforced the lesson, but it was never the source of learning.
@@ -94,8 +94,7 @@ In the Better Together Launch, after students successfully keep the brooms stand
 A student responds:
 >  "Almost forever. Yeah. 20 minutes maybe."
 
-Instead of asking why working together made the task easier or what this means about learning, the Guide immediately supplies the principle:
->  "That is the power of teamwork. Now, it's not always going to be that powerful, but this is just to show you, teamwork can be extremely helpful. If you guys ever need... reach out to your teammates."
+The task ended once students succeeded with a partner, leaving little opportunity to continue experimenting, failing or improving their strategy.
 
 Source artifact: [Better Together Launch (Google Drive)](https://drive.google.com/file/d/1scV87Tg98WLHwI3V5VJtHeyBIysLDPey/view?usp=drive_link)
 
