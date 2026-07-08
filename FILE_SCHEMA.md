@@ -12,11 +12,11 @@ This schema defines the standard structure for every BrainLift document in the r
 
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| id | String | Yes | Unique identifier for the BrainLift. |
-| title | String | Yes | Name of the BrainLift. |
-| taxonomy_path | String | Yes | Full taxonomy location of the BrainLift. |
-| sources | List | Yes | Source documents used to derive the insight. |
-| last_updated | Date | Yes | Date the BrainLift was last modified. |
+| ID | String | Yes | Unique identifier for the BrainLift. |
+| Title | String | Yes | Name of the BrainLift. |
+| Taxonomy Path | String | Yes | Full taxonomy location of the BrainLift. |
+| Sources | List | Yes | Source documents used to derive the insight. |
+| Last Updated | Date | Yes | Date the BrainLift was last modified. |
 
 ---
 
@@ -81,12 +81,12 @@ Text
 
 ```markdown
 ---
-id: <uniques_brainlift_id>
-title: <brainlift_title>
-taxonomy_path: <full_taxonomy_path>
-sources:
+ID: <uniques_brainlift_id>
+Title: <brainlift_title>
+Taxonomy Path: <full_taxonomy_path>
+Sources:
 <list_of_sources>
-last_updated: <YYYY_MM_DD>
+Last Updated: <YYYY_MM_DD>
 ---
 
 # Pattern
