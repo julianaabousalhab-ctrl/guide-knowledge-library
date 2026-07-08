@@ -1,0 +1,62 @@
+---
+id: BL-002
+title: Energy & Excitement
+taxonomy_path: Community & Culture > Launches > Energy & Excitement
+tags:
+  - Excitement
+  - Guide Energy
+  - Limitless Launch
+sources:
+  - Limitless Launches (transcripts + QC)
+last_updated: 2026-07-08
+---
+
+# Energy is sustained through constant participation — not Guide performance
+
+## Pattern
+Across Limitless Launches, the highest-energy sessions were not those where the Guide was the most animated. Energy remained high when students were repeatedly asked to move, respond, compete, discuss, or make decisions. Participation — not enthusiasm alone — kept momentum throughout the Launch.
+
+## Evidence
+In the Giving & Receiving Feedback Launch, the Guide provides structure and encouragement, but the students' active participation is what keeps the Launch energetic. The Guide is facilitating, not entertaining:
+- "Good communication over here."
+- "Use your words."
+- "I love that descriptive word."
+
+These prompts keep students engaged without taking over the activity. The highest-energy moments came from students doing the work, not from the Guide becoming more animated.
+
+Students generating excitement through participation:
+- Several students volunteer for the super challenge, reacting with: "Yeah.", "Oh my."
+- Celebration emerges naturally from solving the puzzle: "Pump it up! Yeah, we got a map!"
+- Students celebrate incremental success: "We got another one!"
+- Students celebrate completion rather than waiting for Guide praise: "We finished! We finished!"
+
+Source artifact: [Giving & Receiving Feedback Launch (Google Drive)](https://drive.google.com/file/d/1bYgdVfvPDFNqcgHOmednJ_D043TiarnQ/view)
+
+In the Endurance / Grit Launch, while the Guide was positive, the sustained energy came primarily from students actively participating rather than from an exceptionally animated Guide. Students competed throughout the activity — the challenge itself created competition between teams:
+- "Your objective is to build the tallest house of cards."
+
+Students immediately begin competing while simultaneously collaborating. Most of the activity consists of peer discussion rather than Guide talk:
+- "Put them in the straw like we did."
+- "I'll teach you guys how to do it."
+- "Listen, we have to make two so we can do more stable in the middle."
+
+Source artifact: [Endurance / Grit Launch (Google Drive)](https://drive.google.com/file/d/1dY1kBuN2iQZF6CN6e-tYMlpJS21YtuDz/view)
+
+## Anti-Pattern
+In the Self-Love Launch, the activity is participatory, but student energy is low and responses are minimal rather than excited:
+- Guide: "Look in that mirror… say one kind thing to yourself."
+- Student: "I can't see anything." / "I like yourself."
+
+Later, the Launch loses energy. Participation becomes individual writing and Guide coaching rather than repeated movement, responding, competing, discussing, or decision-making. The Guide incorporated extended self-love Valentine writing time with fragmented / quiet responses, and asks many follow-ups.
+
+Source artifact: [Self-Love Launch (Google Drive)](https://drive.google.com/drive/folders/1vK57eIOmBaHVTjpGUtLjlIrQb2YRbx20)
+
+## Reusable Coaching Move
+Whenever energy begins to drop, shorten the amount of Guide talk and reintroduce student action within the next minute. Instead of explaining longer or questioning, ask students to:
+- make another attempt
+- compare strategies
+- predict an outcome
+- vote
+- move
+- discuss with a peer / partner
+- demonstrate their thinking
