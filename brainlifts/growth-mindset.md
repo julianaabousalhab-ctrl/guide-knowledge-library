@@ -86,7 +86,7 @@ Student reflected:
 Source artifact: [Growth Mindset / Problem Solving (Google Drive)](https://drive.google.com/file/d/1Uf1AtN9jcPJLO2nrh6X5H0iuCXoHlXRx/view)
 
 ## Anti-Pattern
-When Guides rely primarily on explanations, affirmations, or summaries after an activity, students may participate successfully without fully constructing the underlying Growth Mindset principle themselves.
+When challenges are too easy - or when Guides rescue students before they struggle - students may complete the activity without experiencing the revision and persistence that build Growth Mindset.
 
 In the Better Together Launch, after students successfully keep the brooms standing with a partner, the Guide asks:
 >  "So, by yourself, we went from 'I can't do this for longer than three seconds by myself.' How long could you go with a partner?"
