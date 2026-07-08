@@ -7,7 +7,7 @@ tags:
 - launches
 sources:
 - Limitlless Launches (transcripts + QC)
-last updated: 2026-07-03
+last updated: 2026-07-07
 ---
 
 # Growth Mindset is rarely inferred - it has to be named
