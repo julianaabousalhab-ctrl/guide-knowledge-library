@@ -1,0 +1,62 @@
+---
+id: BL-003
+title: Guide Delivery
+taxonomy_path: Community & Culture > Launches > Guide Delivery
+tags:
+  - Excitement
+  - Guide Energy
+  - Limitless Launch
+sources:
+  - Limitless Launches (transcripts + QC)
+last_updated: 2026-07-08
+---
+
+# Guide interventions are short, specific, and immediately return ownership to students
+
+## Pattern
+Across the strongest Limitless Launches, Guides rarely gave long speeches. Their interventions lasted only long enough to clarify, redirect, or reinforce, then students immediately resumed the work.
+
+## Evidence
+In one of the Launches centered on Grit, once the balance-board activity begins, the Guide's interventions are consistently brief and immediately followed by students returning to practice. The Guide primarily observes, offers quick coaching, and lets students continue learning through repeated attempts. The Guide avoids lengthy speeches and instead uses brief clarifications:
+> "Lower that center of gravity."
+
+Students immediately resume balancing and counting. Then the Guide quickly reinforces:
+> "That's grit right there."
+
+The comment reinforces effort without stopping the activity. The majority of learning occurs through repeated attempts on the balance boards rather than extended Guide talk.
+
+Source artifact: [Grit Balance-Board Launch (Google Drive)](https://drive.google.com/file/d/1ngVybQbHRgBnusbB1k2U6jhT8mjqjDaZ/view?usp=sharing)
+
+In another Launch, titled "Flip 'What if I fail?' to 'What if I succeed/win?'", after a brief explanation of the game, the Guide's interventions are consistently short and functional. The Guide clarified the rule:
+> "If you touch the ring, it doesn't count."
+
+Students immediately began the challenge. During play, the Guide used concise redirects such as:
+> "Felix does not pass, but you have two team members. You get one more chance. Three, two, one, go!"
+
+The Guide also used a brief reflection before sending students right back into the final round:
+> "Why is it important to continue even if you make a mistake?"
+
+He then redirected them back to the final round:
+> "3, 2, 1, go!"
+
+Most of the Launch was spent with students competing, strategizing, and practicing rather than listening to the Guide.
+
+Source artifact: [Flip 'What if I fail?' Launch — meeting transcript (Read.ai)](https://app.read.ai/analytics/meetings/01K644D3EJ3JNB0DRG1Q5KXG5E?utm_source=Share_CopyLink)
+
+## Anti-Pattern
+In one of the Launches, the Guide frequently interrupted the activity with extended coaching instead of brief interventions that quickly returned students to the work. Before students even began practicing, the Guide spent over 2 minutes explaining and modeling the lesson:
+> "We're not going to focus on how to play the exact song. We're going to focus on using a growth mindset."
+
+During practice, interventions often became mini-lessons rather than quick redirects, such as the personal story:
+> "My son plays piano... he would start with the first line and do it over and over and over again."
+
+Source artifact: [Piano Growth Mindset Launch (Google Drive)](https://drive.google.com/file/d/1BBaKRU1_viHsFBsqoIq5TpyMneMICrLo/view?usp=sharing)
+
+## Reusable Coaching Move
+Every Guide intervention should end with student action — not another Guide sentence. End every explanation with a prompt like:
+- "Show me."
+- "Try it."
+- "Convince your partner."
+- "What's your next move?"
+
+The rule is: Guide talks → students act immediately.
