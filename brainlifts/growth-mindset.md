@@ -59,15 +59,15 @@ Across Limitless Launches, students demonstrated the strongest understanding whe
 
 ## Evidence
 In the Wednesday Grit Grind, rather than giving answers the Guide repeatedly asked:
-- "What can we change to make it better?"
-- "How can we fix it?"
-- "What strategy did you use to be successful in this challenge?"
+>  "What can we change to make it better?"
+>  "How can we fix it?"
+>  "What strategy did you use to be successful in this challenge?"
 
 These questions consistently pushed students to analyze their thinking instead of seeking the correct answer.
 
 Students reflected:
-- "When things get harder, I try harder."
-- "Failure is fuel."
+>  "When things get harder, I try harder."
+>  "Failure is fuel."
 
 Source artifact: [Wednesday Grit Grind — meeting transcript (Read.ai)](https://app.read.ai/analytics/meetings/01K47ZN72PRRD747RYFA668W1W/transcript)
 
@@ -81,7 +81,7 @@ In the Growth Mindset / Problem Solving activity, students were intentionally al
 before discussing Growth Mindset.
 
 Student reflected:
-- "We need to make a better plan."
+>  "We need to make a better plan."
 
 Source artifact: [Growth Mindset / Problem Solving (Google Drive)](https://drive.google.com/file/d/1Uf1AtN9jcPJLO2nrh6X5H0iuCXoHlXRx/view)
 
@@ -89,18 +89,18 @@ Source artifact: [Growth Mindset / Problem Solving (Google Drive)](https://drive
 When Guides rely primarily on explanations, affirmations, or summaries after an activity, students may participate successfully without fully constructing the underlying Growth Mindset principle themselves.
 
 In the Better Together Launch, after students successfully keep the brooms standing with a partner, the Guide asks:
-- "So, by yourself, we went from 'I can't do this for longer than three seconds by myself.' How long could you go with a partner?"
+>  "So, by yourself, we went from 'I can't do this for longer than three seconds by myself.' How long could you go with a partner?"
 
 A student responds:
-- "Almost forever. Yeah. 20 minutes maybe."
+>  "Almost forever. Yeah. 20 minutes maybe."
 
 Instead of asking why working together made the task easier or what this means about learning, the Guide immediately supplies the principle:
-- "That is the power of teamwork. Now, it's not always going to be that powerful, but this is just to show you, teamwork can be extremely helpful. If you guys ever need... reach out to your teammates."
+>  "That is the power of teamwork. Now, it's not always going to be that powerful, but this is just to show you, teamwork can be extremely helpful. If you guys ever need... reach out to your teammates."
 
 Source artifact: [Better Together Launch (Google Drive)](https://drive.google.com/file/d/1scV87Tg98WLHwI3V5VJtHeyBIysLDPey/view?usp=drive_link)
 
 ## Reusable coaching move
 Design authentic challenges where failure is expected before introducing Growth Mindset language. During struggle, ask questions such as:
-- "What changed between your first and second attempt?"
-- "What helped you improve?"
-- "What will you try differently next?"
+>  "What changed between your first and second attempt?"
+>  "What helped you improve?"
+>  "What will you try differently next?"
