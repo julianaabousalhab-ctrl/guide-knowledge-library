@@ -42,7 +42,7 @@ In the Self-Love (Valentine) Launch, the theme stayed blurry and not anchored, a
 
 > "I love that I love video games" ([Source artifact](https://drive.google.com/drive/folders/1vK57eIOmBaHVTjpGUtLjlIrQb2YRbx20))
 
-## Reusable coaching move
+## Reusable Coaching Move
 
 Every 3-5 minutes, restate the principle:
 
@@ -99,7 +99,7 @@ Instead of asking why working together made the task easier or what this means a
 
 Source artifact: [Better Together Launch (Google Drive)](https://drive.google.com/file/d/1scV87Tg98WLHwI3V5VJtHeyBIysLDPey/view?usp=drive_link)
 
-## Reusable coaching move
+## Reusable Coaching Move
 Design authentic challenges where failure is expected before introducing Growth Mindset language. During struggle, ask questions such as:
 >  "What changed between your first and second attempt?"
 >  "What helped you improve?"
