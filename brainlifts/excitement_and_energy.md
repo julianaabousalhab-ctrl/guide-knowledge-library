@@ -67,7 +67,7 @@ Whenever energy begins to drop, shorten the amount of Guide talk and reintroduce
 
 ---
 
-# Novelty creates anticipation before learning begins
+# Novelty creates curiosity before learning begins
 
 ## Pattern
 Students entered Launches with high energy when the activity felt surprising or game-like. The strongest Launches generated curiosity before any explicit teaching occurred.
