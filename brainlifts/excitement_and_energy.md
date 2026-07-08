@@ -19,8 +19,8 @@ Across Limitless Launches, the highest-energy sessions were not those where the 
 ## Evidence
 In the Giving & Receiving Feedback Launch, the Guide provides structure and encouragement, but the students' active participation is what keeps the Launch energetic. The Guide is facilitating, not entertaining:
 >  "Good communication over here."
->  "Use your words."
->  "I love that descriptive word."
+> "Use your words."
+> "I love that descriptive word."
 
 These prompts keep students engaged without taking over the activity. The highest-energy moments came from students doing the work, not from the Guide becoming more animated.
 
@@ -41,8 +41,8 @@ In the Endurance / Grit Launch, while the Guide was positive, the sustained ener
 
 Students immediately begin competing while simultaneously collaborating. Most of the activity consists of peer discussion rather than Guide talk:
 >  "Put them in the straw like we did."
->  "I'll teach you guys how to do it."
->  "Listen, we have to make two so we can do more stable in the middle."
+> "I'll teach you guys how to do it."
+> "Listen, we have to make two so we can do more stable in the middle."
 
 Source artifact: [Endurance / Grit Launch (Google Drive)](https://drive.google.com/file/d/1dY1kBuN2iQZF6CN6e-tYMlpJS21YtuDz/view)
 
@@ -116,4 +116,4 @@ Source artifact: [Rainbow Drawing Challenge (Google Drive)](https://drive.google
 ## Reusable Coaching Move
 Begin the Launch with a question or a challenge that students cannot immediately answer. Delay the explanation until after they've experienced curiosity, uncertainty, or surprise. Use prompts such as:
 > "Your challenge is ..."
-> "You have X minutes to figure this out."
+>  "You have X minutes to figure this out."
