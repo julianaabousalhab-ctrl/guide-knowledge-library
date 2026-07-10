@@ -15,10 +15,12 @@ This schema defines the standard structure for every BrainLift document in the r
 | ID | String | Yes | Unique identifier for the BrainLift. |
 | Title | String | Yes | Name of the BrainLift. |
 | Taxonomy Path | String | Yes | Full taxonomy location of the BrainLift. |
+| Tags | List | Yes | Involved concepts in the BrainLift. |
 | Sources | List | Yes | Source documents used to derive the insight. |
 | Last Updated | Date | Yes | Date the BrainLift was last modified. |
 
 ---
+# Heading
 
 ## Pattern
 
@@ -84,24 +86,27 @@ Text
 ID: <uniques_brainlift_id>
 Title: <brainlift_title>
 Taxonomy Path: <full_taxonomy_path>
+Tags:
+<list_of_tags>
 Sources:
 <list_of_sources>
 Last Updated: <YYYY_MM_DD>
 ---
+# Heading
 
-# Pattern
-
-...
-
-# Evidence
+## Pattern
 
 ...
 
-# Anti-Pattern
+## Evidence
 
 ...
 
-# Reusable Coaching Move
+## Anti-Pattern
+
+...
+
+## Reusable Coaching Move
 
 ...
 ```
