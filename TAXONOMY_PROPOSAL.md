@@ -32,7 +32,7 @@ Each top-level category represents a major area of Guide responsibility, while c
 - 2.3 Student Ownership & Accountability
 - 2.4 Action Planning
 - 2.5 Reflection & Metacognition
-- 2.6 Follow-up Coaching
+- 2.6 Follow-Up Coaching
 
 ---
 
