@@ -1,14 +1,3 @@
-# 6.1 Launches — Inclusion Log
-
-## What’s in
-The current Launch BrainLifts include only Guide-facing behaviors supported by the full available Limitless Launch corpus. Each included pattern has at least two positive examples and one anti-pattern.
-
-## What’s out
-Operational details, one-off activity ideas, student-only behaviors, and patterns without enough repeated evidence were excluded. No new taxonomy nodes were created.
-
-## What was ambiguous
-Some evidence also fit a possible **Challenge Design / Task Architecture** node. Because the taxonomy was fixed, those examples were placed in the closest existing node only when they supported a distinct Guide behavior.
-
 # 6.1.1 Growth Mindset — Inclusion Log
 
 ## What’s in
