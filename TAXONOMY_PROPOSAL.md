@@ -129,7 +129,7 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 - 8.1 Writing Guide Comments
 - 8.2 Giving Parent Feedback
-- 8.4 Progress Communication
+- 8.3 Progress Communication
 
 ---
 
