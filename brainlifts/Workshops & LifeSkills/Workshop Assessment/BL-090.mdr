@@ -1,0 +1,98 @@
+---
+ID: BL-090
+Title: Treat Mass Failure as a Design Signal — Trigger a System Review, Not Individual Remediation
+Taxonomy Path: Workshops & LifeSkills > Workshop Assessment
+Tags:
+  - Workshop Assessment
+  - Mass Failure
+  - Root Cause
+  - Assessment Design
+  - Escalation
+Sources:
+  - Feathers and Fix
+Last Updated: 2026-07-22
+---
+
+# Treat Mass Failure as a Design Signal — Trigger a System Review, Not Individual Remediation
+
+## Pattern
+
+When one student fails a T2P, coach the student. When several students fail the same T2P on the same skill in the same session, the evidence points at the workshop — its instruction, expectations, practice volume, assessment design, or conditions — and the response should be a structured review of the shared barrier, not N parallel individual remediations. The converged practice:
+
+1. **A numeric trigger** that converts failures into a system review automatically (e.g., three students or ≥30% failing the same T2P), removing the judgment call.
+2. **A barrier taxonomy** for the review: instruction, unclear expectations, insufficient practice, assessment design, or assessment conditions.
+3. **Escalation beyond the guide's control surface** when the barrier is structural: workshop redesign, age-band reassignment, or product-team feedback — because some causes cannot be fixed by any amount of coaching.
+
+The same logic applies longitudinally to one student: repeated failures across workshops are a pattern to diagnose once, not a series of isolated results.
+
+## Evidence
+
+*1- The inference stated plainly*
+
+> "When students hit the Print & Perfect workshop in Session 2, receiving-feedback didn't fully land. Two of three kids failed the same workshop on the same skill in the same session, which points at the workshop, not the kids."
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1VS9R48ghG6lcaipEwokX037zC2gN2J-g/view?usp=drive_link)
+
+*2- A formal protocol with trigger and barrier taxonomy*
+
+> "Implement a Mass-Failure Closure Protocol whenever either three students or at least 30% of participants fail the same T2P. Within two school days, review the failed rubric criteria and determine whether the shared barrier came from instruction, unclear expectations, insufficient practice, assessment design, or assessment conditions."
+
+The same guide's Independence data shows why: "When Independence was taught and assessed through BridgeWorks, six of seven participating students kept failing, while those same students generally passed the other Session 4 T2Ps" — the students weren't the variable.
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1GkUvXj2NMu3kXbSXzkcfDE62tQY2FcvF/view?usp=drive_link)
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1U4Xo1Hya-hDZG4SgZ-mvGj2ik9KcpMwa/view?usp=drive_link)
+
+*3- A structural fix executed after cross-campus failure*
+
+> "When the Money Machines timeframe ran out before students earned their money back, they failed Test2Pass — repeatedly, across all of OC and other campuses, with some campuses never recouping at all." → "Moved Money Machines to middle school, where the short earn-back window fits kids who can run a tight profit cycle; K-5 take a scaffolded entrepreneurship workshop instead."
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1yPMMN1ScLF1rjB2JVrYSD1YESIzN-KfS/view?usp=drive_link)
+
+*4- Escalating a product-level cause instead of coaching around it*
+
+A whole-guide-group complaint about an app's XP design ("getting just 2 answers wrong after a long reading session could mean 0 XP earned, which felt defeating") is routed upward: "Since this is an app/product-level design issue rather than something a guide-level process change can fix, escalate this feedback directly to the team that owns Alpha Read's XP/scoring logic."
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1GMAE0lGkuKUfGJLtxduRoHHGd7wVDF8p/view?usp=drive_link)
+
+## Anti-Pattern
+
+The anti-pattern is absorbing a shared failure as a stack of individual failures — recording each one, remediating each student, and never asking what they had in common.
+
+*Shared failures recorded individually; the pattern never triggered a review*
+
+> "When multiple students failed the same T2P, the results kept being recorded as individual failures instead of automatically triggering a review of the shared failure pattern, targeted practice, and a scheduled retest."
+
+The same failure mode appears longitudinally with one student: "When Ansel failed T2Ps across multiple sessions and skill areas, each failure kept being handled as a separate workshop result rather than being used to identify and address his recurring barrier" — eight attempts before a pattern review was designed.
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1GkUvXj2NMu3kXbSXzkcfDE62tQY2FcvF/view?usp=drive_link)
+
+Source artifact:[Feathers and Fix](https://drive.google.com/file/d/1CBz4HJS7XF0CrFMrvS2g2Ml_KX3x8QOd/view?usp=drive_link)
+
+## Reusable Coaching Move
+
+Use the Trigger → Classify → Test → Route process.
+
+### 1. Set the trigger in advance
+
+Adopt a numeric threshold (three students or 30% of participants failing the same T2P; or one student failing across 2+ workshops) that automatically opens a review — no discretion required.
+
+### 2. Classify the shared barrier
+
+Review the failed rubric criteria against the taxonomy: instruction, unclear expectations (check BL-088 first), insufficient practice or transfer (check BL-089), assessment design, or assessment conditions.
+
+### 3. Test competing fixes small
+
+Where the barrier is ambiguous, run 2–3 recovery variants within the guide group (reteach with examples, guided practice with feedback, revised conditions) and retest — let results pick the fix.
+
+### 4. Route structural causes upward
+
+If the cause sits in workshop design, age-band fit, or product mechanics, escalate with the evidence to whoever owns that layer — and say so in the record, rather than coaching students around a broken system.
+
+The coaching standard is not:
+
+> "Each student who failed received support and a retake."
+
+The standard is:
+
+> "A shared failure automatically produced a review of what the failures had in common — and the fix landed on the actual cause, even when the cause wasn't the students."
