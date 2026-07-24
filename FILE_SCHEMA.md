@@ -79,6 +79,10 @@ Text
 
 ---
 
+## Conifdence: Text
+
+---
+
 # Standard BrainLift Template
 
 ```markdown
@@ -109,4 +113,6 @@ Last Updated: <YYYY_MM_DD>
 ## Reusable Coaching Move
 
 ...
+
+## Confidence: ...
 ```
