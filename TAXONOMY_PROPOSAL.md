@@ -2,17 +2,19 @@
 
 ## Overview
 
-This taxonomy organizes Alpha Guide knowledge by **topics of Guide practice** rather than by document source. The goal is to create a reusable knowledge base that allows Guides to quickly locate best practices, coaching strategies, and operational knowledge across multiple sources.
+This taxonomy organizes Alpha Guide knowledge by topics of Guide practice rather than by document source. The goal is a reusable knowledge base that lets Guides quickly locate best practices, coaching strategies, and operational knowledge across multiple sources.
 
-Each top-level category represents a major area of Guide responsibility, while child nodes group related concepts into increasingly specific topics.
+Each top-level category represents a major area of Guide responsibility; child nodes group related concepts into increasingly specific topics. Every node lists the sources its BrainLifts actually draw on, plus known evidence gaps, so confidence can be judged per node rather than assumed.
 
 ---
 
 # 1. Building Relationships
 
-**Purpose:** Covers how Guides establish trust, understand students, and build strong relationships before coaching can be effective.
+**Purpose:** How Guides establish trust, understand students, and build the relationship that makes coaching land. The unifying rationale: relational moves count as knowledge here only when they change later coaching (a usable lever, an adapted approach) — rapport alone is out of scope.
 
-**Primary Sources:** Limitless Meetings; Student Profiles
+**Primary Sources:** 1:1 Limitless Meetings transcripts; Mentor Mindset Analytics; Feathers and Fix
+
+**Known gaps:** Single-corpus for most of the node (one meeting set)
 
 - 1.1 Building Trust
 - 1.2 Getting to Know Students
@@ -23,9 +25,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 2. Coaching & Accountability
 
-**Purpose:** Covers recurring coaching practices that help students set goals, make plans, reflect, and follow through.
+**Purpose:** The recurring 1:1 coaching cycle — goal discovery, planning, reflection, follow-through. Rationale: each node captures one distinct function of the cycle (what to aim at, how to plan it, how to examine it, how to close it), so a Guide can find the move that matches the moment.
 
-**Primary Sources:** Limitless Meetings; Mentor Mindset Analytics
+**Primary Sources:** 1:1 Limitless Meetings transcripts; Mentor Mindset Analytics; Feathers and Fix; Student 360 Reviews; Motivational Models
+
+**Known gaps:** Same single-corpus caveat as Node 1; a small set of meetings supports many BrainLifts
 
 - 2.1 Goal Discovery & Goal Setting
 - 2.2 Reflective Coaching
@@ -38,9 +42,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 3. Student Motivation & Engagement
 
-**Purpose:** Covers strategies that increase student motivation, persistence, and investment.
+**Purpose:** Strategies that increase motivation, persistence, and investment. Rationale: nodes are split by function — the system (3.1), the reward content (3.2), the school currency (3.3), the time dimension (3.4), and the lifecycle (3.5) — with scope notes marking where individual temporary models and durable level-wide systems follow different rules.
 
-**Primary Sources:** Motivational Models
+**Primary Sources:** Student 360 Reviews; Motivational Models; 1:1 Limitless Meetings
+
+**Known gaps:** 3.3 has no MAP-linked evidence yet despite the node name; several 1:1-corpus BrainLifts
 
 - 3.1 Motivational Models
 - 3.2 Rewards & Incentives
@@ -52,9 +58,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 4. Student Understanding & Observation
 
-**Purpose:** Covers how Guides continuously develop an accurate understanding of students through observation, documentation, and conversations.
+**Purpose:** How Guides build and record an accurate model of each student — and act on data rather than impressions. Rationale: profiles store the knowledge (4.1), observation practices generate it (4.2), and motivation analysis interprets it (4.3).
 
-**Primary Sources:** 360 Student Reviews; Student 360 Profiles; Session Snapshots
+**Primary Sources:** 360 Reviews; Feathers and Fix; Student360 Profiles; 1:1 Limitless Meetings
+
+**Known gaps:** 4.1 rests on one fully documented protocol case (Low confidence); Session Snapshots are not currently used here (they live in Node 8) despite the earlier proposal listing them.
 
 - 4.1 Student Profiles
 - 4.2 Observation & Documentation
@@ -64,9 +72,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 5. Workshops & LifeSkills
 
-**Purpose:** Covers planning, facilitating, assessing, and improving workshops.
+**Purpose:** Planning, coaching, assessing, and transferring workshop-taught life skills. Rationale: the four nodes follow the workshop lifecycle — design (5.1), preparation for assessment (5.3), reading assessment results (5.2), and installing the skill after the workshop ends (5.4).
 
-**Primary Sources:** Workshops; Workshop Feedback
+**Primary Sources:** Feathers and Fix
+
+**Known gaps:** Single source type. Direct workshop observations and AlphaTest result data would independently confirm what is currently guide-retrospective evidence.
 
 - 5.1 Workshop Planning
 - 5.2 Workshop Assessment
@@ -77,9 +87,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 6. Community & Culture
 
-**Purpose:** Covers whole-group experiences that build culture, ownership, and community.
+**Purpose:** Whole-group experiences that build culture, ownership, and community. Rationale: Launches (6.1) and Townhalls (6.2) are distinct formats with distinct Guide roles (instructional delivery vs facilitation restraint), so they keep separate sub-trees; Daily Closings (6.3) covers recurring culture rituals.
 
-**Primary Sources:** Townhall Dashboard; Limitless Launches; Daily Closings
+**Primary Sources:** Limutless Launch recordings; Townhall transcripts; Feathers and Fix; Behavior Plans
+
+**Known gaps:** The 6.1 corpus is small (~8 recordings stretched across 18 BrainLifts — all Medium confidence); 6.3 nodes 6.3.1–6.3.3 are planned but not yet populated.
 
 ## 6.1 Launches
 
@@ -110,9 +122,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 7. Student Behavior & Wellbeing
 
-**Purpose:** Covers behavioral challenges, interventions, and student wellbeing.
+**Purpose:** Behavioral challenges, interventions, and wellbeing. Rationale: nodes follow the arc of a behavior case — the plan (7.1), the incident (7.2), the intervention conversation (7.3), and the regulation skills that prevent recurrence (7.4).
 
-**Primary Sources:** Behavioral Models; Incident Reports; Meetings
+**Primary Sources:** Incident Reports; Behavior Plans/Trackers/Reports; Parent Comms; Feathers and Fix; Motivational Models; 1:1 Limitless Meetings
+
+**Known gaps:** None structural — this is the most source-diverse category; most BrainLifts here are High confidence.
 
 - 7.1 Behavioral Planning
 - 7.2 Incident Management
@@ -123,9 +137,11 @@ Each top-level category represents a major area of Guide responsibility, while c
 
 # 8. Parent Partnership
 
-**Purpose:** Covers communication and collaboration between Guides and parents.
+**Purpose:** Communication and collaboration between Guides and parents. Rationale: 8.1 covers how comments are written, 8.2 how feedback is framed, 8.3 how progress over time is communicated — three distinct writing functions that recur in every report cycle.
 
-**Primary Sources:** Guide Central; Alpha Shared Drive
+**Primary Sources:** Standards for Guide Comments; Session Snapshots; Incident Reports; Parent Comms
+
+**Known gaps:** No parent-response data — claims about how parents receive these communications are currently supported only by BL-079's incident corpus. Standards-derived claims are marked as such in the BrainLifts.
 
 - 8.1 Writing Guide Comments
 - 8.2 Giving Parent Feedback
