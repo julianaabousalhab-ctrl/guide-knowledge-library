@@ -4,7 +4,8 @@
 
 - Surface a personally meaningful goal distinct from required performance targets
 - Calibrate the goal so it is ambitious, specific, and credible
-
+- Film the ambitious-goal commitment — then mine the video for coaching decisions
+  
 ## Out
 
 - **Set XP, check, or reward targets** — not included as personally meaningful goal discovery unless the student connected the metric to a larger aspiration or area of growth.
@@ -24,6 +25,7 @@
 - Anchor reflection in a specific event
 - Probe the student’s reasoning rather than accepting the first answer
 - Observe the student performing the task before diagnosing the problem
+- Teach the app before you coach the content — tool illiteracy masquerades as a learning gap
 
 ## Out
 
@@ -47,6 +49,7 @@
 - Teach a repeatable help-seeking routine
 - Turn leadership potential into authentic responsibility
 - Pair accountability with a clear repair pathway
+- Replace rescue with scheduled, time-boxed support
 
 ## Out
 
@@ -114,7 +117,7 @@
 
 - **Ask whether the student completed the plan** — not included unless the Guide also examined evidence and decided what to retain or revise.
 - **Send one message to a system contact** — not treated as full closure unless the Guide completed their owned action and continued tracking the external outcome.
-- **Increase independence after a strategy works** — not included because the corpus did not provide enough independent positive and anti-pattern evidence for a separate pattern.
+- **Increase independence after a strategy works** — originally excluded for lack of evidence; superseded when later corpora (Feathers, 3Cs, Motivational Model Hubs) supplied it. Codified as BL-094 under 2.3, governing the Guide's support-delivery structure (scheduled, time-boxed, evidence-tracked, fading).
 
 ## Ambiguous
 
