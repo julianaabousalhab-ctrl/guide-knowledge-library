@@ -6,6 +6,8 @@
 - Adjust the Guide’s approach when the student signals a mismatch
 - Establish and honor recording boundaries
 - Make the purpose and decision rules explicit before asking for buy-in
+- Induct new joiners into owning the community — don't hand them a finished system
+- Run the guide transition as a relationship handoff — rapport before coaching, assets before agenda
 
 ## Out
 
