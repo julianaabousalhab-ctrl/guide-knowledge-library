@@ -20,6 +20,8 @@
 - **Recording boundaries** was the least certain pattern in this node. Some examples involved simple procedural consent rather than deeper coaching behavior.
 - It was retained because the corpus included direct permission, off-record options, and immediate honoring of a pause request.
 - Evidence was limited to explicit transcript language. No assumptions were made about privacy policy, access, or confidentiality beyond what the meetings stated.
+- BL-091 and BL-115 are a mirror pair: BL-091 covers the student new to the community; BL-115 covers the adult new to the student. Both retained because trigger and actor differ.
+- BL-115's "walk the inherited record with the student" borders 1.2's use of student knowledge (BL-023); separated because BL-115 governs transferring the relationship, BL-023 governs using knowledge inside an established one. BL-115's executed evidence is one campus/era (see its Confidence section)
 
 # Node 1.2 — Getting to Know Students
 
@@ -46,6 +48,7 @@
 
 - Ask for the student’s solution before supplying one
 - Preserve student agency when advocating or escalating
+- Close the loop on student voice — act, attribute, or explain
 
 ## Out
 
@@ -58,6 +61,7 @@
 - Guide suggestions were not automatically treated as reducing student voice.
 - The deciding factor was sequence: whether the student had a meaningful opportunity to think or speak first.
 - Adult escalation was considered agency-preserving when the student remained informed or involved and the Guide added only the support necessary.
+- BL-093 governs what happens after voice is heard (visible action, attribution, or explained constraints; delegated decisions are never revoked post hoc). It does not overlap 6.2's in-meeting facilitation patterns (BL-055/056) or BL-024's think-first sequence.
 
 # Node 1.4 — Celebration & Recognition
 
