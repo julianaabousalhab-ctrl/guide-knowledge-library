@@ -33,6 +33,7 @@ These were classified by the primary behavior being evaluated. A comment could s
 
 - Describing observable behavior instead of character, motive, or fixed traits
 - Explaining relevant context and then stating the Guide’s action
+- Delivering serious consequences with the stakes, the plan, and evidence-based belief in one message
 
 These were included because the reports provide direct evidence of how Guides frame written feedback for parents.
 
@@ -60,6 +61,7 @@ The node was narrowed to written parent-facing feedback. Context counted as posi
 
 - Communicating trajectory through an earlier state, change or intervention, and current direction
 - Ending with a measurable checkpoint that includes an action, measure, and timeframe
+- Anchoring goal meetings to the parents' stack-ranked pillars
 
 These were included because they are distinct: trajectory explains progress already observed, while a checkpoint defines how future progress will be evaluated.
 
