@@ -24,6 +24,8 @@
 - **BL-068:** Make progress physically manipulable and keep the incentive in sight.
 - **BL-081:** Build the reward ladder from earned status, autonomy, and responsibility — not prizes.
 - **BL-083:** Co-design incentives around meaningful progress.
+- **BL-108:** Write the quality condition into the earning rule — make gaming structurally impossible.
+- **BL-112:** Point multipliers steer effort — they don't create it; use them for salience, not as the engine.
 
 ## Out
 
@@ -70,6 +72,7 @@
 
 - **BL-069:** Move the motivational bar in both directions on a weekly cadence.
 - **BL-080:** Treat the model as scaffolding — launch it against a diagnosed gap and design its retirement.
+- **BL-109:** Refresh every student's motivational plan on a staff-day cadence.
 
 ## Out
 
