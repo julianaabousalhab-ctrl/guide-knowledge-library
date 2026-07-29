@@ -29,6 +29,7 @@
 
 - Explore the student’s interests until they reveal a usable coaching lever
 - Use student knowledge to personalize later coaching
+- Show up in the student's arena — attend their outside-school moments as deliberate relationship investment (BL-117)
 
 ## Out
 
@@ -41,6 +42,7 @@
 - Some interest conversations created strong rapport but did not produce a coaching application.
 - These were treated as anti-patterns or incomplete examples rather than evidence of the pattern.
 - A coaching lever required a visible connection to a resource, strategy, opportunity, responsibility, or next step.
+- BL-117 begins where BL-022 ends: the interest is already known; the move is physical presence in the student's outside-school context, invitation-gated and family-coordinated. It is not coaching personalization (BL-023) and not a reward (BL-066).
 
 # Node 1.3 — Student Voice
 
