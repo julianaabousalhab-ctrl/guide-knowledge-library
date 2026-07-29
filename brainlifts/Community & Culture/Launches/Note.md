@@ -4,6 +4,7 @@
 - **BL-001:** Build a second attempt into the Launch and require a strategy change.
 - **BL-002:** Make mistakes recoverable and keep students in the task.
 - **BL-003:** Convert Growth Mindset language into a concrete next move.
+- **BL-099:** Probe past persistence language — students absorb only half of growth mindset on their own; the revision half needs deliberate transmission.
 
 ## What’s out
 Affirmations, slogans, effort praise, competition, or difficulty alone were excluded when they did not lead to a retry, adjustment, recovery, or next action.
