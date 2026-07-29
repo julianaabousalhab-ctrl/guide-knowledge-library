@@ -3,6 +3,9 @@
 ## In
 
 - **BL-071:** Publish student-facing pass criteria on day one — ambiguity reads as a motivation problem.
+- **BL-103:** Baseline the life skill in week one — progress judgments need a documented start.
+- **BL-106:** Decompose before you design — skill → subskill → "I can" behaviors, activity last.
+- **BL-110:** Give the work a real client — external stakes produce professional effort.
 
 ## Out
 
@@ -18,6 +21,8 @@
 ## In
 
 - **BL-090:** Treat mass failure as a design signal — trigger a system review, not individual remediation.
+- **BL-104:** "Not passed" is a diagnosis trigger, not a terminal state — close every failure with the component-level gap and the booked response.
+- **BL-107:** Run the weekly improvement loop — survey the students, extract three takeaways, change something.
 
 ## Out
 
@@ -34,6 +39,8 @@
 ## In
 
 - **BL-088:** Rehearse under test conditions — guided success does not transfer on its own.
+- **BL-102:** A "Behind" flag is not an intervention — record the barrier and the booked response at the moment of flagging.
+- **BL-105:** Score with cited evidence, cap the fixes at three — the draft-checkpoint feedback structure.
 
 ## Out
 
