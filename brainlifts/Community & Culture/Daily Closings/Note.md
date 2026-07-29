@@ -21,6 +21,23 @@
 
 - **BL-111:** Hand the daily closing to students — rotating leadership plus a fixed reflection structure.
 
-# Nodes 6.3.1 and 6.3.3 — Student Recognition, Community Celebration
+# Node 6.3.1 — Student Recognition
 
-**Planned.** No BrainLifts yet; no closing-specific source data has been processed for these two nodes. Listed in the taxonomy to reserve the structure. Note that recognition patterns observed in other contexts already exist (BL-008 in Launches, BL-026/BL-027 in Building Relationships) and should be cross-referenced, not duplicated, when these nodes are populated.
+## In
+
+- **BL-118:** Teach the shout-out as a form — model it, give every student a turn, and upgrade vague praise live.
+
+## Out
+
+- **Specific, life-skill-aligned, student-given shout-outs as a standard** — excluded as a pattern because the Closing rubric/WUD mandates the bar itself; only the craft for reaching it (model the anatomy, universal turn structures, live upgrades, student-defined standard) is codified.
+- **Recognition drift (outcome-based, friend-based, generic)** — retained only as the anti-pattern, documented in the corpus's own QC records including one guide's self-QC note.
+
+## Ambiguous
+
+- BL-118 vs. BL-026/BL-008: those govern the Guide's own recognition craft; BL-118 governs teaching students to recognize each other — the student is the recognizer.
+- BL-118 vs. BL-052 (Townhall evidence-grounded feedback): same specificity principle, different ritual and different guide moves (turn-guaranteeing games, in-the-moment upgrades).
+- BL-118 vs. BL-111: BL-111 hands the closing's facilitation to students; BL-118 is the recognition-slot craft that runs inside it. They compose.
+
+# Node 6.3.3 — Community Celebration
+
+**Planned.** Still no BrainLift. Closing-specific source data has now been processed (S2–S4 Closings DS + transcripts); the candidate "end with a consistent, student-driven ritual finish" was rejected because the ritual-ending requirement is written into the Closing rubric itself, and the executed ritual contents in the corpus (closing cheer, fortune-flip into goals, culture-extension challenge) are heterogeneous — no converged mechanism beyond what the rubric mandates. This node populates when a specific celebration mechanism recurs across guides independently of the rubric. Recognition patterns in other contexts (BL-008 in Launches, BL-026/BL-027 in Building Relationships) should be cross-referenced, not duplicated.
