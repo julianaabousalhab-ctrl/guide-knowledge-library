@@ -89,7 +89,7 @@ Each top-level category represents a major area of Guide responsibility; child n
 
 **Purpose:** Whole-group experiences that build culture, ownership, and community. Rationale: Launches (6.1) and Townhalls (6.2) are distinct formats with distinct Guide roles (instructional delivery vs facilitation restraint), so they keep separate sub-trees; Daily Closings (6.3) covers recurring culture rituals.
 
-**Primary Sources:** Limutless Launch recordings; Townhall transcripts; Feathers and Fix; Behavior Plans
+**Primary Sources:** Limitless Launch recordings; Townhall transcripts; Feathers and Fix; Behavior Plans
 
 **Known gaps:** The 6.1 corpus is small (~8 recordings stretched across 18 BrainLifts — all Medium confidence); 6.3 nodes 6.3.1–6.3.3 are planned but not yet populated.
 
