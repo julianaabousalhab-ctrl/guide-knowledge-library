@@ -91,7 +91,7 @@ Each top-level category represents a major area of Guide responsibility; child n
 
 **Primary Sources:** Limitless Launch recordings; Townhall transcripts; Feathers and Fix; Behavior Plans
 
-**Known gaps:** The 6.1 corpus is small (~8 recordings stretched across 18 BrainLifts — all Medium confidence); 6.3 nodes 6.3.1–6.3.3 are planned but not yet populated.
+**Known gaps:** The 6.1 corpus is small (~8 recordings stretched across 18 BrainLifts — all Medium confidence); 6.3 node 6.3.3 (Community Celebration) is planned but not yet populated.
 
 ## 6.1 Launches
 
