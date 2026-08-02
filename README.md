@@ -22,7 +22,7 @@ Taxonomy paths follow [TAXONOMY_PROPOSAL.md](TAXONOMY_PROPOSAL.md). Nodes marked
 
 ## Current contents
 
-- **98 BrainLifts** (BL-001–BL-098) across 8 categories and 30+ nodes
+- **130 BrainLifts** (BL-001–BL-130) across 8 categories and 30+ nodes
 - Per-category **Note.md scope logs** documenting inclusion/exclusion decisions
 - **Confidence levels** on every BrainLift: High = 3+ independent instances across guides/campuses or an executed contrast; Medium = real pattern, few instances or a single corpus; Low = one documented case or flagged by its own scope log
 
