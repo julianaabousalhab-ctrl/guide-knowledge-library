@@ -1,4 +1,4 @@
-# 6.2.1 Student Ownership — Scope Log
+# Node 6.2.1 — Student Ownership
 
 ## In
 
@@ -10,11 +10,11 @@ These were included because they describe distinct Guide actions across the full
 
 ## Out
 
-- **Student speaking percentage as a pattern:** Useful as a diagnostic, but it is an outcome measure rather than a Guide behavior.
-- **Having a student mayor or president:** Not included on its own because a title may be ceremonial. It was incorporated into BL-046 only when the role carried real authority.
-- **Student-generated agendas as a percentage target:** Not included separately because the actionable Guide behavior is the submission and ownership pipeline in BL-045.
-- **Recurring student jobs as a separate pattern:** Folded into BL-047 because the important distinction is whether students own implementation, not simply whether jobs exist.
-- **Student choice of meeting format or room setup:** Observed, but not supported strongly enough as a distinct ownership pattern without overlapping facilitation structures.
+- **Student speaking percentage as a pattern** — useful as a diagnostic, but it is an outcome measure rather than a Guide behavior.
+- **Having a student mayor or president** — not included on its own because a title may be ceremonial. It was incorporated into BL-046 only when the role carried real authority.
+- **Student-generated agendas as a percentage target** — not included separately because the actionable Guide behavior is the submission and ownership pipeline in BL-045.
+- **Recurring student jobs as a separate pattern** — folded into BL-047 because the important distinction is whether students own implementation, not simply whether jobs exist.
+- **Student choice of meeting format or room setup** — observed, but not supported strongly enough as a distinct ownership pattern without overlapping facilitation structures.
 
 ## Ambiguous
 
@@ -30,7 +30,7 @@ These were included because they describe distinct Guide actions across the full
 - Treated repeated adult direction or adult-authored outcomes as ceremonial leadership or takeover.
 - Consolidated duplicate recordings so the same meeting did not count as multiple evidence examples.
 
-# 6.2.2 Decision Making — Scope Log
+# Node 6.2.2 — Decision Making
 
 ## In
 
@@ -43,17 +43,17 @@ These were included because they cover four distinct parts of student decision-m
 
 ## Out
 
-- **Use majority vote:** Not included as a separate pattern because it was already a common baseline expectation and did not by itself ensure decision quality.
-- **Use anonymous voting:** Not included because anonymity was helpful in some contexts but unnecessary or counterproductive in others.
-- **Always reach a decision:** Excluded because tabling a proposal or retaining the current rule can be the strongest student-owned outcome when no majority exists.
-- **Revisit previous decisions:** Incorporated into BL-051 rather than treated separately.
-- **Assign implementation owners after voting:** Mapped to BL-047 under Student Ownership to avoid duplicating the same operational behavior.
-- **Celebrate ambitious decisions:** Observed inconsistently and not supported as a distinct pattern with sufficient contrasting evidence.
+- **Use majority vote** — not included as a separate pattern because it was already a common baseline expectation and did not by itself ensure decision quality.
+- **Use anonymous voting** — not included because anonymity was helpful in some contexts but unnecessary or counterproductive in others.
+- **Always reach a decision** — excluded because tabling a proposal or retaining the current rule can be the strongest student-owned outcome when no majority exists.
+- **Revisit previous decisions** — incorporated into BL-051 rather than treated separately.
+- **Assign implementation owners after voting** — mapped to BL-047 under Student Ownership to avoid duplicating the same operational behavior.
+- **Celebrate ambitious decisions** — observed inconsistently and not supported as a distinct pattern with sufficient contrasting evidence.
 
 ## Ambiguous
 
 - A Guide sometimes supplied feasibility information students could not reasonably know.
-- In other cases, the same type of intervention became a substantive argument for the Guide’s preferred result.
+- In other cases, the same type of intervention became a substantive argument for the Guide's preferred result.
 - Some votes contained several nested questions, making it unclear whether the meeting had one decision or multiple decisions.
 - Tie procedures varied across campuses and sometimes included adult selection, random selection, re-voting, or retaining the current rule.
 - Transcription errors occasionally made vote counts or option wording unclear.
@@ -66,7 +66,7 @@ These were included because they cover four distinct parts of student decision-m
 - Accepted multiple tie protocols only when they preserved student authority and were known before the tie.
 - Did not rely on unclear numerical vote counts unless the decision process was independently understandable from the transcript.
 
-# 6.2.3 Student Voice — Scope Log
+# Node 6.2.3 — Student Voice
 
 ## In
 
@@ -78,12 +78,12 @@ These were included because they address three different conditions for meaningf
 
 ## Out
 
-- **More than two or three students should speak:** Not included as a pattern because it is an outcome measure, not a Guide behavior.
-- **Students should speak more than Guides:** Useful as a quality indicator, but it overlaps Student Ownership and Guide Facilitation.
-- **Students should articulate well-reasoned opinions:** Folded into BL-052 and BL-054 rather than treated as a separate pattern.
-- **Students should move from personal preference to community impact:** Incorporated into BL-052 and BL-049.
-- **Students should give direct feedback:** Included inside BL-052 and BL-054 to avoid creating an overlapping feedback pattern.
-- **Every student must speak:** Excluded because equitable access does not require forced public participation.
+- **More than two or three students should speak** — not included as a pattern because it is an outcome measure, not a Guide behavior.
+- **Students should speak more than Guides** — useful as a quality indicator, but it overlaps Student Ownership and Guide Facilitation.
+- **Students should articulate well-reasoned opinions** — folded into BL-052 and BL-054 rather than treated as a separate pattern.
+- **Students should move from personal preference to community impact** — incorporated into BL-052 and BL-049.
+- **Students should give direct feedback** — included inside BL-052 and BL-054 to avoid creating an overlapping feedback pattern.
+- **Every student must speak** — excluded because equitable access does not require forced public participation.
 
 ## Ambiguous
 
@@ -101,7 +101,7 @@ These were included because they address three different conditions for meaningf
 - Treated voice recovery as an invitation with permission to pass, not a requirement to manufacture an opinion.
 - Counted student contributions as meaningful when they added evidence, a concern, a question, an alternative, or a standards connection.
 
-# 6.2.4 Guide Facilitation — Scope Log
+# Node 6.2.4 — Guide Facilitation
 
 ## In
 
@@ -113,12 +113,12 @@ These were included because they distinguish three separate Guide responsibiliti
 
 ## Out
 
-- **Use a circle, timer, talking object, or gavel:** Not included as independent patterns because these are tools. Their value depends on how they are used.
-- **Use neutral paraphrasing:** Incorporated into BL-055.
-- **Protect psychological safety:** Incorporated into BL-056 through respect, access, and emotional-safety guardrails.
-- **Keep Guide speaking below a fixed percentage:** Not included because speaking percentage is diagnostic and varies by developmental readiness.
-- **Guides should remain silent:** Excluded because silence can allow unsafe, disrespectful, inaccessible, or unclear processes to continue.
-- **Model expectations at the start:** Incorporated into BL-057 when modeling is part of a deliberate progression rather than a permanent adult role.
+- **Use a circle, timer, talking object, or gavel** — not included as independent patterns because these are tools. Their value depends on how they are used.
+- **Use neutral paraphrasing** — incorporated into BL-055.
+- **Protect psychological safety** — incorporated into BL-056 through respect, access, and emotional-safety guardrails.
+- **Keep Guide speaking below a fixed percentage** — not included because speaking percentage is diagnostic and varies by developmental readiness.
+- **Guides should remain silent** — excluded because silence can allow unsafe, disrespectful, inaccessible, or unclear processes to continue.
+- **Model expectations at the start** — incorporated into BL-057 when modeling is part of a deliberate progression rather than a permanent adult role.
 
 ## Ambiguous
 
