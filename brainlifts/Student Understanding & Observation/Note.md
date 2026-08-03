@@ -21,6 +21,7 @@
 - **BL-096:** Put struggling on a clock — fixed-cadence data review, numeric flags, and a timed intervention cycle.
 - **BL-101:** Ask the level-fit question directly in session 1 — treat every placement as provisional.
 - **BL-116:** Score every promise from both sides — divergence between Guide's and student's POV is the diagnostic trigger.
+- **BL-120:** Design the 360 so specificity is structural — balanced, required comments beat deficit-triggered checkboxes.
 
 ## Out
 
@@ -32,6 +33,7 @@
 
 - BL-096 borders on Workshop Assessment's mass-failure trigger (BL-090). Resolved with boundary statements in both: BL-096 fires on one student's drifting daily data; BL-090 fires when many students fail one assessment.
 - The node now holds three detection disciplines split by trigger type: BL-089 (in-the-moment behavior vs. documented baseline), BL-096 (numeric drift on a fixed cadence), BL-116 (perception divergence between the Guide's and the student's scores). BL-116's written root-cause closure also feeds BL-115's transition record, so a flagged divergence cannot outlive a guide change unexamined.
+- BL-120 is upstream instrument design, not a fourth detection trigger: it sets the prompt architecture that determines whether 360 peer-feedback data is specific enough for the three detection disciplines to use. It borders BL-116 (which consumes perception data once collected) and BL-098 (which stores what tested delivery reveals); BL-120 governs how the data is elicited in the first place.
 
 # Node 4.3 — Understanding Motivation
 
