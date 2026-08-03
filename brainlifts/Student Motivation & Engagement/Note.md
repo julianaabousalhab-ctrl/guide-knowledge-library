@@ -57,6 +57,7 @@
 
 - **BL-072:** Front-load a quick win and keep the goal horizon inside the student's motivational window.
 - **BL-085:** Make a distant goal feel reachable through visible micro-progress.
+- **BL-128:** For the stalled student, structure the choice — assigned core plus student-chosen remainder.
 
 ## Out
 
@@ -65,6 +66,7 @@
 ## Ambiguous
 
 - The two patterns are the same chunking mechanism at two time scales. Kept separate with Boundary notes in both: BL-072 governs within-block sequencing; BL-085 governs long-horizon goals that should not shrink.
+- BL-072/BL-085 manage momentum through sequencing and progress visibility while keeping the task set fixed; BL-128 redesigns the option set itself. It honors this node's Out-note — workload is never lowered, only the choice structure changes. BL-082 pulls the other direction on ownership; flagged as a tension to reconcile in review, not a contradiction: BL-082 governs incentive design, BL-128 governs task selection under stall conditions.
 
 # Node 3.5 — Motivation Planning & Iteration
 
@@ -73,6 +75,7 @@
 - **BL-069:** Move the motivational bar in both directions on a weekly cadence.
 - **BL-080:** Treat the model as scaffolding — launch it against a diagnosed gap and design its retirement.
 - **BL-109:** Refresh every student's motivational plan on a staff-day cadence.
+- **BL-121:** A relationship is not a motivational system — install a named structure for every flagged student, and enforce it without fear.
 
 ## Out
 
@@ -82,3 +85,4 @@
 ## Ambiguous
 
 - The raise-vs-shrink signal is behavioral (ease/boredom vs fading effort/frustration), not numeric; examples were included only where the Guide's observed adjustment matched the stated signal.
+- BL-080 and BL-069 govern how a motivational model is launched, adjusted, and retired once it exists; BL-121 governs the prior failure mode — no system existing at all because the relationship was treated as the intervention. Consistent with BL-036 (accountability paired with repair) and BL-095 (consequences calibrated across guides).
