@@ -28,7 +28,7 @@ Taxonomy paths follow [TAXONOMY_PROPOSAL.md](TAXONOMY_PROPOSAL.md). Nodes marked
 
 ## Sources
 
-BrainLifts draw on: 1:1 Limitless Meetings transcripts, Mentor Mindset Analytics, Limitless Launch recordings, Townhall transcripts, Student 360 Reviews, Student360 Profiles, Motivational Models, Feathers and Fix retrospectives, Behavior Plans and Trackers, Alpha Incident Reports, Parent Comms, Session Snapshots, and the SY25-26 Standards for Guide Comments (normative). Each category's sources-in-use and known gaps are listed in TAXONOMY_PROPOSAL.md.
+BrainLifts draw on: 1:1 Limitless Meetings transcripts, Mentor Mindset Analytics, Limitless Launch recordings, Townhall transcripts, Student 360 Reviews, Student 360 Profiles, 360 Feedback Forms, Motivational Models, Feathers and Fix retrospectives, Behavior Plans and Trackers, Alpha Incident Reports, Parent Comms, Session Snapshots, the Guide Portal Database (lead↔guide coaching records: feedback, coaching points, action items, agenda items), Guides Evaluations, Workshop Skill Trackers, workshop artifacts (e.g. EPK interview transcripts, Final AlphaTest Feedback), Closings datasets and transcripts, end-of-session student surveys, Ambitious Goals Student Videos, the Community Projects Dashboard, Students' 3Cs Progress data, Guide Blogs, and the SY25-26 Standards for Guide Comments (normative). Each category's sources-in-use and known gaps are listed in TAXONOMY_PROPOSAL.md.
 
 Some source documents recur across BrainLifts within a node: the underlying corpus is still limited, and each citation supports a distinct behavior within the artifact. Confidence levels account for this.
 
