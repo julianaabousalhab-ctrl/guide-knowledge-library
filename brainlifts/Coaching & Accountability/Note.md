@@ -2,10 +2,10 @@
 
 ## In
 
-- Surface a personally meaningful goal distinct from required performance targets
-- Calibrate the goal so it is ambitious, specific, and credible
-- Film the ambitious-goal commitment — then mine the video for coaching decisions
-  
+- **BL-028:** Surface a personally meaningful goal distinct from required performance targets.
+- **BL-029:** Calibrate the goal so it is ambitious, specific, and credible.
+- **BL-114:** Film the ambitious-goal commitment — then mine the video for coaching decisions.
+
 ## Out
 
 - **Set XP, check, or reward targets** — not included as personally meaningful goal discovery unless the student connected the metric to a larger aspiration or area of growth.
@@ -15,41 +15,42 @@
 ## Ambiguous
 
 - Required performance targets were not treated as inherently weak. They were considered valid measures, but not automatically meaningful goals.
-- Highly ambitious aspirations such as “be the best” were treated as starting points, not finished goals.
+- Highly ambitious aspirations such as "be the best" were treated as starting points, not finished goals.
 - Credibility required some grounding in current performance, time, resources, or prior growth.
 
 # Node 2.2 — Reflective Coaching
 
 ## In
 
-- Anchor reflection in a specific event
-- Probe the student’s reasoning rather than accepting the first answer
-- Observe the student performing the task before diagnosing the problem
-- Teach the app before you coach the content — tool illiteracy masquerades as a learning gap
+- **BL-030:** Anchor reflection in a specific event.
+- **BL-031:** Probe the student's reasoning rather than accepting the first answer.
+- **BL-032:** Observe the student performing the task before diagnosing the problem.
+- **BL-113:** Teach the app before you coach the content — tool illiteracy masquerades as a learning gap.
+- **BL-122:** Coach the guide's vocabulary — plain words in, adult labels out, student-generated language preferred.
 
 ## Out
 
 - **Ask open-ended questions** — not included separately because question type alone does not guarantee meaningful reflection.
-- **Distinguish the student’s interpretation from the Guide’s interpretation** — merged into probing reasoning.
+- **Distinguish the student's interpretation from the Guide's interpretation** — merged into probing reasoning.
 - **Use self-rating scales** — treated as a technique that may support reflection, not a standalone pattern.
 
 ## Ambiguous
 
 - Anchoring and probing often appeared in the same exchange.
-- They were separated by function:
-  - anchoring identifies the event being examined;
-  - probing deepens the student’s explanation.
+- They were separated by function: anchoring identifies the event being examined; probing deepens the student's explanation.
 - Observation before diagnosis was retained only when the Guide watched the task or inspected the exact work before deciding what the problem was.
+- BL-122 governs guide word-choice discipline in student-facing coaching conversations — a gap no neighbor covered: BL-062 is the parent-facing analogue (observable behavior, not character), BL-003/BL-099 cover growth-mindset language inside Launches, and BL-039/BL-040 cover metacognitive language. The bar in BL-122 is usefulness to the student, not clinical accuracy.
 
 # Node 2.3 — Student Ownership & Accountability
 
 ## In
 
-- Co-create and confirm the accountability agreement
-- Teach a repeatable help-seeking routine
-- Turn leadership potential into authentic responsibility
-- Pair accountability with a clear repair pathway
-- Replace rescue with scheduled, time-boxed support
+- **BL-033:** Co-create and confirm the accountability agreement.
+- **BL-034:** Teach a repeatable help-seeking routine.
+- **BL-035:** Turn leadership potential into authentic responsibility.
+- **BL-036:** Pair accountability with a clear repair pathway.
+- **BL-094:** Replace rescue with scheduled, time-boxed support.
+- **BL-123:** Train the hold-back as countable reps — quotas, pre-scripted probes, and a named escalation path.
 
 ## Out
 
@@ -63,13 +64,14 @@
 - Leadership examples were included only when the student had meaningful decisions, coordination responsibility, a visible deliverable, or later follow-up.
 - Help-seeking required more than telling the student to ask for help. A repeatable trigger, request, person, or escalation process had to be visible.
 - Repair applied after a miss or breach; co-created accountability applied before the commitment.
+- BL-123 sits upstream of BL-094 in this node: BL-094 restructures when support is delivered (scheduled, time-boxed); BL-123 trains the in-the-moment rescue reflex that defeats any structure. The question-first principle already exists in BL-006, BL-024, BL-031, and BL-055 — the increment here is the practice-rep design that makes it trainable. It complements BL-034: the student's help-seeking routine covers the moments the guide now declines to rescue.
 
 # Node 2.4 — Action Planning
 
 ## In
 
-- Break the goal into the next sequenced step
-- Define the execution conditions and evidence of completion
+- **BL-037:** Break the goal into the next sequenced step.
+- **BL-038:** Define the execution conditions and evidence of completion.
 
 ## Out
 
@@ -79,19 +81,17 @@
 
 ## Ambiguous
 
-- The two patterns are closely related but serve different functions:
-  - sequencing determines what comes next;
-  - execution conditions determine how, when, where, and with what evidence it will happen.
-- Broad expectations such as “be a leader” or “focus more” were excluded because they were not executable.
+- The two patterns are closely related but serve different functions: sequencing determines what comes next; execution conditions determine how, when, where, and with what evidence it will happen.
+- Broad expectations such as "be a leader" or "focus more" were excluded because they were not executable.
 - Reused anti-patterns were avoided when possible so this node remained distinct from authentic responsibility and accountability agreements.
 
 # Node 2.5 — Reflection & Metacognition
 
 ## In
 
-- Identify the conditions affecting performance
-- Extract a reusable learning strategy from experience
-- Diagnose whether the barrier is strategy, instructional fit, or system failure
+- **BL-039:** Identify the conditions affecting performance.
+- **BL-040:** Extract a reusable learning strategy from experience.
+- **BL-041:** Diagnose whether the barrier is strategy, instructional fit, or system failure.
 
 ## Out
 
@@ -101,7 +101,7 @@
 
 ## Ambiguous
 
-- Performance conditions describe what influences the student’s result, such as sleep, noise, stress, pace, or timing.
+- Performance conditions describe what influences the student's result, such as sleep, noise, stress, pace, or timing.
 - Barrier diagnosis classifies the primary problem as strategy, instructional fit, or system failure.
 - Strategy extraction focuses on what the student can intentionally repeat in a future situation.
 - More than one barrier could be present, but examples were included only when the Guide meaningfully separated the possibilities.
@@ -110,8 +110,10 @@
 
 ## In
 
-- Revisit the prior plan with evidence and decide what changes
-- Track Guide and system commitments to closure
+- **BL-042:** Revisit the prior plan with evidence and decide what changes.
+- **BL-043:** Track Guide and system commitments to closure.
+- **BL-125:** Run a self-built weekly operating system — named responsibilities in, memory and reminders out.
+- **BL-126:** Route the diagnosed barrier to a named owner — DRI coordination with an evidence package.
 
 ## Out
 
@@ -124,3 +126,5 @@
 - A plan did not need to change for the follow-up to be strong. Evidence could justify keeping it.
 - System closure did not always mean the requested outcome was granted. A final decision, implemented alternative, or transparent interim status could count as closure.
 - Immediate outreach demonstrated Guide accountability, but the issue remained open until the student received an outcome or clear status.
+- BL-125 and BL-043 are complements at different scales: BL-043 closes individual commitments once made; BL-125 installs the standing weekly system so the recurring class of commitments never depends on memory.
+- BL-126 is the move between BL-041 and BL-043: BL-041 supplies the upstream diagnosis (strategy vs. fit vs. system), BL-043 the downstream tracking, BL-126 decides who gets the problem and what evidence travels with it. BL-102 is its workshop-local analogue.
