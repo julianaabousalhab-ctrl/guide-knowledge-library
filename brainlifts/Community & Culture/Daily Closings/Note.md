@@ -1,4 +1,4 @@
-**# Node 6.3.1 — Student Recognition
+# Node 6.3.1 — Student Recognition
 
 ## In
 
